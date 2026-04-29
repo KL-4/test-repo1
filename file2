@@ -1,0 +1,8 @@
+class file2
+{
+    public static void main()
+    {
+             system.out.println("hi this is dev1");
+    }
+}
+
