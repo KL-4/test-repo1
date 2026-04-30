@@ -1,7 +1,8 @@
 class file2
 {
-       public static void main()
-       {
-             system.out.println("hello this is dev2")
-       }
+    public static void main()
+    {
+             system.out.println("hi this is dev1 and dev2");
+    }
 }
+
